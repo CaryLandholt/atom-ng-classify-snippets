@@ -1,0 +1,45 @@
+{
+	"name": "ng-classify-snippets",
+	"version": "1.0.0",
+	"description": "Snippets for Converting CoffeeScript classes to AngularJS modules with ng-classify",
+	"author": {
+		"name": "Cary Landholt",
+		"email": "cary@landholt.com",
+		"url": "https://github.com/CaryLandholt"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/CaryLandholt/atom-ng-classify-snippets"
+	},
+	"main": "./lib/ng-classify-snippets",
+	"private": "true",
+	"keywords": [
+		"atom",
+		"angular",
+		"angularjs",
+		"class",
+		"coffeescript",
+		"module"
+	],
+	"license": "MIT",
+	"engines": {
+		"atom": ">=0.123.0"
+	},
+	"dependencies": {
+		"coffee-script": "^1.7.1",
+		"ng-classify": "^4.0.2",
+		"underscore-plus": "^1.5.1"
+	},
+	"devDependencies": {
+		"conventional-changelog": "0.5.3",
+		"gulp": "^3.9.0",
+		"gulp-util": "^3.0.7"
+	},
+	"files": [
+		"snippets",
+		"CHANGELOG.md",
+		"CONTRIBUTING.md",
+		"LICENSE",
+		"README.md",
+	]
+}
