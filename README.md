@@ -1,4 +1,4 @@
-# ng-classify for [Atom](https://atom.io/)
+# ng-classify snippets for [Atom](https://atom.io/)
 [![License][license-image]][license-url]
 [![Version][version-image]][version-url]
 [![Build Status][build-image]][build-url]
@@ -9,15 +9,12 @@
 
 ## Install
 ```bash
-$ apm install ng-classify-preview
+$ apm install ng-classify-snippets
 ```
 
 
 ## Usage
-See [Snippets](#snippets) below
-
-Go to `Packages > ng-classify Preview > Toggle` to see the ng-classified version
-![](https://github.com/CaryLandholt/atom-ng-classify-preview/raw/master/screenshot.png)
+Expand snippets matching the current prefix with tab in Atom
 
 
 ## Table of Contents
@@ -59,14 +56,14 @@ See [CHANGELOG.md](CHANGELOG.md)
 See [LICENSE](LICENSE)
 
 
-[build-image]:            http://img.shields.io/travis/CaryLandholt/atom-ng-classify-preview.svg?style=flat
-[build-url]:              http://travis-ci.org/CaryLandholt/atom-ng-classify-preview
+[build-image]:            http://img.shields.io/travis/CaryLandholt/atom-ng-classify-snippets.svg?style=flat
+[build-url]:              http://travis-ci.org/CaryLandholt/atom-ng-classify-snippets
 
-[dependencies-image]:     http://img.shields.io/gemnasium/CaryLandholt/atom-ng-classify-preview.svg?style=flat
-[dependencies-url]:       https://gemnasium.com/CaryLandholt/atom-ng-classify-preview
+[dependencies-image]:     http://img.shields.io/gemnasium/CaryLandholt/atom-ng-classify-snippets.svg?style=flat
+[dependencies-url]:       https://gemnasium.com/CaryLandholt/atom-ng-classify-snippets
 
 [license-image]:          http://img.shields.io/badge/license-MIT-blue.svg?style=flat
 [license-url]:            LICENSE
 
-[version-image]:          http://img.shields.io/github/tag/CaryLandholt/atom-ng-classify-preview.svg?style=flat
-[version-url]:            https://github.com/CaryLandholt/atom-ng-classify-preview/tags
+[version-image]:          http://img.shields.io/github/tag/CaryLandholt/atom-ng-classify-snippets.svg?style=flat
+[version-url]:            https://github.com/CaryLandholt/atom-ng-classify-snippets/tags
